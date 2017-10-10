@@ -27,5 +27,9 @@ https://medium.com/@skjb/building-a-smart-pysc2-agent-cdc269cb095d
 https://github.com/skjb/pysc2-tutorial
 
 
+3. 
+
+https://github.com/XHUJOY/pysc2-agents
+
 
 
