@@ -1,8 +1,11 @@
 # axiv-starcraft2
 
 API and Library
+
 pysc2 (Deepmind) [https://github.com/deepmind/pysc2]
+
 s2client-proto (Blizzard) [https://github.com/Blizzard/s2client-proto]
+
 
 Tutorial and Example
 
